@@ -1,0 +1,11 @@
+E:\wpf\work\tftp\tftp\bin\Debug\tftp.exe
+E:\wpf\work\tftp\tftp\bin\Debug\tftp.pdb
+E:\wpf\work\tftp\tftp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\wpf\work\tftp\tftp\obj\x86\Debug\Window1.baml
+E:\wpf\work\tftp\tftp\obj\x86\Debug\Window1.g.cs
+E:\wpf\work\tftp\tftp\obj\x86\Debug\App.g.cs
+E:\wpf\work\tftp\tftp\obj\x86\Debug\tftp_MarkupCompile.cache
+E:\wpf\work\tftp\tftp\obj\x86\Debug\tftp.g.resources
+E:\wpf\work\tftp\tftp\obj\x86\Debug\tftp.exe
+E:\wpf\work\tftp\tftp\obj\x86\Debug\tftp.pdb
+E:\wpf\work\tftp\tftp\obj\x86\Debug\App.baml
